@@ -1,0 +1,2 @@
+<p> I am Abdul Tayyeb Bohra Studying in BCA VI<sup>th</sup> semester. I have made this Project as an part of my BCA final year major project. This Project is mader to facilate the task of the librarian. And enhance the Day to day working of library. The initial motto for making this project was to replace the current mannual system with advance automated system.
+</p>
